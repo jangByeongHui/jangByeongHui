@@ -15,7 +15,7 @@
 </p>
 
 ## ✨ My stat ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=solarized-light&show_icons=true)
 
 ## Ask me anything 📢 : jmkabc31@ajou.ac.kr
 
