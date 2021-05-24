@@ -1,7 +1,4 @@
 ## Hi !👋
-
-## ✨ **This is ByeongHui's gihub** ✨
-
 ##  **I'm Styuding....**  💻
 <p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
@@ -17,7 +14,7 @@
 <img alt="Raspberry Pi" src ="https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
 </p>
 
-## My stat 
+## ✨ My stat ✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true)
 
 ## Ask me anything 📢 : jmkabc31@ajou.ac.kr
