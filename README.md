@@ -1,5 +1,5 @@
-## Hi !👋
-##  **I'm Styuding....**  💻
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=ByeongHui,Jang&fontSize=90&animation=fadeIn&&fontAlign=50" />
+<h3 align ="center">💻 I'm Studying 💻</h3>
 <p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -10,12 +10,14 @@
 <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
 <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img alt="Raspberry Pi" src ="https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
+<img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
 ## ✨ My stat ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=solarized-light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=vue&show_icons=true)
 
 ## Ask me anything 📢 : jmkabc31@ajou.ac.kr
 
