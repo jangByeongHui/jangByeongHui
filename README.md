@@ -16,12 +16,10 @@
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
-<h2 align="center"> ✨ My stat ✨ </h2>
-<p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=vue&show_icons=true"/>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=jmkabc31&show_icons=true"/>
 <h3 align ="center"> Ask me anything 📢 : jmkabc31@ajou.ac.kr </p>
+
 
 
 
