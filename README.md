@@ -18,7 +18,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=vue&show_icons=true"/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmkabc31)](https://solved.ac/jmkabc31)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj="jmkabc31")](https://solved.ac/jmkabc31)
 
 <h3 align ="center"> Ask me anything 📢 : jmkabc31@ajou.ac.kr </p>
 
