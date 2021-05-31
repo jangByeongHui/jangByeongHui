@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=ByeongHui,Jang&fontSize=90&animation=fadeIn&fontAlign=50&color=ffcc00" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=ByeongHui%%Jang&fontSize=90&animation=fadeIn&fontAlign=50&color=ffcc00" />
 <h2 align ="center">💻 I'm Studying 💻</h2>
 <p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
@@ -21,9 +21,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangByeongHui&layout=compact"/>
 </p>
 
-<h3 align ="center"> Ask me anything 📢 : jmkabc31@ajou.ac.kr </p>
+<h3 align ="center"> Ask me anything 📢 : jmkabc31@ajou.ac.kr </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&color=7fc638" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&color=7fc638" />
 
 
 
