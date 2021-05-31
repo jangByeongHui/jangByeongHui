@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=ByeongHui,Jang&fontSize=90&animation=fadeIn&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=ByeongHui,Jang&fontSize=90&animation=fadeIn&fontAlign=50&color=_ffcc00" />
 <h2 align ="center">💻 I'm Studying 💻</h2>
 <p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
@@ -23,6 +23,7 @@
 
 <h3 align ="center"> Ask me anything 📢 : jmkabc31@ajou.ac.kr </p>
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&color=_7fc638" />
 
 
 
