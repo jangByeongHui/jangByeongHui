@@ -23,7 +23,6 @@
 
 <h3 align ="center"> Ask me anything 📢 : jmkabc31@ajou.ac.kr </h3>
 
-38" />
 
 
 
