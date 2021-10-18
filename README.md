@@ -26,7 +26,7 @@
 <img src="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/star.gif?raw=true" width=165 height=165/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangByeongHui&layout=compact" />
 <img src="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/star.gif?raw=true" width=165 height=165/>
-<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width=495 height=225/>
+<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width=495 height=245/>
 </p>
 
 
