@@ -3,6 +3,7 @@
 
 <h2 align ="center">💻 I'm Studying 💻</h2>
 <p align="center">
+<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width=495 height=280/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-302683.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -26,7 +27,6 @@
 <img src="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/star.gif?raw=true" width=165 height=165/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangByeongHui&layout=compact" />
 <img src="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/star.gif?raw=true" width=165 height=165/>
-<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width=495 height=280/>
 </p>
 
 
