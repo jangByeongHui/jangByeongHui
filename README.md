@@ -23,8 +23,8 @@
 <img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/pepe.gif?raw=true" width=155 height=195/>
 <img src="https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=vue&show_icons=true" />
 <img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/pepe.gif?raw=true" width=155 height=195/>
-<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width=300 height=165/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangByeongHui&layout=compact" />
+<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width=300 height=165/>
 </p>
 
 
