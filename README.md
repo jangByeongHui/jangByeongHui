@@ -22,7 +22,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=vue&show_icons=true" />
 <img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/pepe.gif?raw=true" width=155 height=195/>
-<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/poptart1redrainbowfix_1.0.gif?raw=true" width=131.47 height=165/>
+<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/poptart1redrainbowfix_1.0.gif?raw=true" width=247.5 height=165/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangByeongHui&layout=compact" />
 </p>
 
