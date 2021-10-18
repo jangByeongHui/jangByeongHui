@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&Color=gradient&height=300&section=header&text=ByeongHui&fontSize=90&animation=fadeIn&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=ByeongHui&fontSize=90&animation=fadeIn&fontAlign=50" />
                                                                                    
 
 <h2 align ="center">💻 I'm Studying 💻</h2>
