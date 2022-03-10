@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=ByeongHui&fontSize=90&animation=fadeIn&fontAlign=50" />
-                                                                                   
+
+<p align="center">
+	<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width="250px" height="150px"/>
+</p>
 
 <h2 align ="center">💻 I'm Studying 💻</h2>
 <p align="center">
@@ -16,46 +19,35 @@
 <img alt="Arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="ReactNative" src ="https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="YOLO" src ="https://img.shields.io/badge/YOLO-EE4C2C.svg?&style=for-the-badge&logo=YOLOt&logoColor=white"/>
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/pepe.gif?raw=true" width=155 height=195/>
-<img src="https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=vue&show_icons=true" />
-<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/pepe.gif?raw=true" width=155 height=195/>
-<img src="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/star.gif?raw=true" width=165 height=165/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangByeongHui&layout=compact" />
-<img src="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/star.gif?raw=true" width=165 height=165/>
+<img src="https://github-readme-stats.vercel.app/api?username=jangByeongHui&theme=vue&show_icons=true"/>
 </p>
 
-	              _____                    _____                    _____          
-	             /\    \                  /\    \                  /\    \         
-	            /::\    \                /::\    \                /::\____\        
-	            \:::\    \              /::::\    \              /:::/    /        
-	             \:::\    \            /::::::\    \            /:::/    /         
-	              \:::\    \          /:::/\:::\    \          /:::/    /          
-	               \:::\    \        /:::/__\:::\    \        /:::/____/           
-	               /::::\    \      /::::\   \:::\    \      /::::\    \           
-	      _____   /::::::\    \    /::::::\   \:::\    \    /::::::\    \   _____  
-	     /\    \ /:::/\:::\    \  /:::/\:::\   \:::\ ___\  /:::/\:::\    \ /\    \ 
-	    /::\    /:::/  \:::\____\/:::/__\:::\   \:::|    |/:::/  \:::\    /::\____\
-	    \:::\  /:::/    \::/    /\:::\   \:::\  /:::|____|\::/    \:::\  /:::/    /
-	     \:::\/:::/    / \/____/  \:::\   \:::\/:::/    /  \/____/ \:::\/:::/    / 
-	      \::::::/    /            \:::\   \::::::/    /            \::::::/    /  
-	       \::::/    /              \:::\   \::::/    /              \::::/    /   
-	        \::/    /                \:::\  /:::/    /               /:::/    /    
-	         \/____/                  \:::\/:::/    /               /:::/    /     
-	                                   \::::::/    /               /:::/    /      
-	                                    \::::/    /               /:::/    /       
-	                                     \::/____/                \::/    /        
-	                                      ~~                       \/____/ 
-	
+                  _____                    _____                    _____
+                 /\    \                  /\    \                  /\    \
+                /::\    \                /::\    \                /::\____\
+                \:::\    \              /::::\    \              /:::/    /
+                 \:::\    \            /::::::\    \            /:::/    /
+                  \:::\    \          /:::/\:::\    \          /:::/    /
+                   \:::\    \        /:::/__\:::\    \        /:::/____/
+                   /::::\    \      /::::\   \:::\    \      /::::\    \
+          _____   /::::::\    \    /::::::\   \:::\    \    /::::::\    \   _____
+         /\    \ /:::/\:::\    \  /:::/\:::\   \:::\ ___\  /:::/\:::\    \ /\    \
+        /::\    /:::/  \:::\____\/:::/__\:::\   \:::|    |/:::/  \:::\    /::\____\
+        \:::\  /:::/    \::/    /\:::\   \:::\  /:::|____|\::/    \:::\  /:::/    /
+         \:::\/:::/    / \/____/  \:::\   \:::\/:::/    /  \/____/ \:::\/:::/    /
+          \::::::/    /            \:::\   \::::::/    /            \::::::/    /
+           \::::/    /              \:::\   \::::/    /              \::::/    /
+            \::/    /                \:::\  /:::/    /               /:::/    /
+             \/____/                  \:::\/:::/    /               /:::/    /
+                                       \::::::/    /               /:::/    /
+                                        \::::/    /               /:::/    /
+                                         \::/____/                \::/    /
+                                          ~~                       \/____/
 
-    
-
-<p align="center">
-<img src ="https://github.com/jangByeongHui/jangByeongHui/blob/main/asset/nft_cat.gif?raw=true?raw=true" width=495 height=280/>
-</p>        
 <h3 align ="center"> Ask me anything 📢 : jmkabc31@ajou.ac.kr </h3>
-
-
