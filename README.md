@@ -20,8 +20,9 @@
 <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="ReactNative" src ="https://img.shields.io/badge/ReactNative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="YOLO" src ="https://img.shields.io/badge/YOLO-EE4C2C.svg?&style=for-the-badge&logo=YOLOt&logoColor=white"/>
+<img alt="YOLO" src ="https://img.shields.io/badge/YOLO-00FFFF.svg?&style=for-the-badge&logo=yolo&logoColor=white"/>
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 </p>
 
 <p align="center">
