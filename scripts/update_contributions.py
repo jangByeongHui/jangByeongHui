@@ -9,20 +9,24 @@ USERNAME = os.environ.get("GITHUB_USERNAME", "jangByeongHui")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 README_PATH = os.environ.get("README_PATH", "README.md")
 MAX_PRS = 20
+MIN_STARS = int(os.environ.get("MIN_STARS", "100"))
 SECTION_START = "<!-- OSS_CONTRIBUTIONS_START -->"
 SECTION_END = "<!-- OSS_CONTRIBUTIONS_END -->"
 
 
-def search_merged_prs() -> list[dict]:
-    headers = {
+def _github_headers() -> dict:
+    return {
         "Authorization": f"Bearer {TOKEN}",
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
     }
+
+
+def search_merged_prs() -> list[dict]:
     query = f"type:pr is:merged author:{USERNAME} -user:{USERNAME}"
     resp = requests.get(
         "https://api.github.com/search/issues",
-        headers=headers,
+        headers=_github_headers(),
         params={"q": query, "sort": "updated", "order": "desc", "per_page": MAX_PRS},
         timeout=15,
     )
@@ -30,6 +34,17 @@ def search_merged_prs() -> list[dict]:
         print(f"GitHub API {resp.status_code}: {resp.text}", file=sys.stderr)
         sys.exit(1)
     return resp.json().get("items", [])
+
+
+def fetch_repo_stars(repo_name: str) -> int:
+    resp = requests.get(
+        f"https://api.github.com/repos/{repo_name}",
+        headers=_github_headers(),
+        timeout=15,
+    )
+    if resp.status_code != 200:
+        return 0
+    return resp.json().get("stargazers_count", 0)
 
 
 def parse_pr(raw: dict) -> dict:
@@ -50,19 +65,32 @@ def group_by_repo(prs: list[dict]) -> dict[str, list[dict]]:
     return grouped
 
 
+def filter_by_stars(grouped: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    filtered = {}
+    for repo, prs in grouped.items():
+        stars = fetch_repo_stars(repo)
+        if stars >= MIN_STARS:
+            filtered[repo] = prs
+        else:
+            print(f"제외: {repo} ({stars} stars < {MIN_STARS})")
+    return filtered
+
+
 def build_markdown(grouped: dict[str, list[dict]]) -> str:
     if not grouped:
-        return "_아직 외부 오픈소스 기여 내역이 없습니다._\n"
+        return f"_⭐ {MIN_STARS}+ stars 규모의 외부 오픈소스 기여 내역이 없습니다._\n"
 
-    lines: list[str] = []
+    lines: list[str] = [
+        "| Repository | Pull Requests |",
+        "| --- | --- |",
+    ]
     for repo, prs in grouped.items():
-        lines.append(f"**[{repo}]({prs[0]['repo_url']})**")
-        for pr in prs:
-            lines.append(f"- [#{pr['pr_number']} {pr['pr_title']}]({pr['pr_url']})")
-        lines.append("")
+        repo_link = f"[{repo}]({prs[0]['repo_url']})"
+        pr_links = "<br>".join(f"• [#{pr['pr_number']} {pr['pr_title']}]({pr['pr_url']})" for pr in prs)
+        lines.append(f"| {repo_link} | {pr_links} |")
 
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines.append(f"<sub>Last updated: {updated}</sub>")
+    lines.append(f"\n<sub>⭐ {MIN_STARS}+ stars 프로젝트만 표시 · Last updated: {updated}</sub>")
     return "\n".join(lines)
 
 
@@ -96,6 +124,7 @@ def main() -> None:
     raw_prs = search_merged_prs()
     prs = [parse_pr(p) for p in raw_prs]
     grouped = group_by_repo(prs)
+    grouped = filter_by_stars(grouped)
     markdown = build_markdown(grouped)
     update_readme(markdown)
 
