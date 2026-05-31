@@ -78,7 +78,7 @@ def filter_by_stars(grouped: dict[str, list[dict]]) -> dict[str, list[dict]]:
 
 def build_markdown(grouped: dict[str, list[dict]]) -> str:
     if not grouped:
-        return f"_⭐ {MIN_STARS}+ stars 규모의 외부 오픈소스 기여 내역이 없습니다._\n"
+        return "_외부 오픈소스 기여 내역이 없습니다._\n"
 
     lines: list[str] = [
         "| Repository | Pull Requests |",
@@ -90,7 +90,7 @@ def build_markdown(grouped: dict[str, list[dict]]) -> str:
         lines.append(f"| {repo_link} | {pr_links} |")
 
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines.append(f"\n<sub>⭐ {MIN_STARS}+ stars 프로젝트만 표시 · Last updated: {updated}</sub>")
+    lines.append(f"\n<sub>Last updated: {updated}</sub>")
     return "\n".join(lines)
 
 
