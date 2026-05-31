@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Engineer @ KIA</b><br/>
-  인천 · Republic of Korea
+  인천, Republic of Korea
 </p>
 
 <p align="center">
@@ -40,11 +40,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Open Source Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangByeongHui&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangByeongHui&layout=compact&hide_border=true&langs_count=6" height="150"/>
-</p>
+<!-- OSS_CONTRIBUTIONS_START -->
+_아직 외부 오픈소스 기여 내역이 없습니다._
+<!-- OSS_CONTRIBUTIONS_END -->
 
 ---
