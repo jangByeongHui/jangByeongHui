@@ -43,39 +43,13 @@
 ## 🤝 Open Source Contributions
 
 <!-- OSS_CONTRIBUTIONS_START -->
-**[apache/airflow](https://github.com/apache/airflow)**
-- [#67225 Fix DockerOperator on_kill to respect auto_remove='force' and remove …](https://github.com/apache/airflow/pull/67225)
+| Repository | Pull Requests |
+| --- | --- |
+| [apache/airflow](https://github.com/apache/airflow) | • [#67225 Fix DockerOperator on_kill to respect auto_remove='force' and remove …](https://github.com/apache/airflow/pull/67225) |
+| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | • [#4176 fix(skill-mcp-manager): trust explicit skill MCP env vars (#3995)](https://github.com/code-yeongyu/oh-my-openagent/pull/4176) |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | • [#13154 🤝 fix: Honor OPENID_REUSE_TOKENS in Admin OAuth Exchange](https://github.com/danny-avila/LibreChat/pull/13154) |
 
-**[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)**
-- [#4176 fix(skill-mcp-manager): trust explicit skill MCP env vars (#3995)](https://github.com/code-yeongyu/oh-my-openagent/pull/4176)
-
-**[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)**
-- [#13154 🤝 fix: Honor OPENID_REUSE_TOKENS in Admin OAuth Exchange](https://github.com/danny-avila/LibreChat/pull/13154)
-
-**[De-Volk/volk-server](https://github.com/De-Volk/volk-server)**
-- [#4 Feat/mongo db](https://github.com/De-Volk/volk-server/pull/4)
-- [#3 [MongoDB]를 활용하여 사용자 이메일과 비밀번호를 저장하도록 하였습니다.](https://github.com/De-Volk/volk-server/pull/3)
-
-**[PinkDumbbell/CocoBob-BE](https://github.com/PinkDumbbell/CocoBob-BE)**
-- [#93 개발 서버와 배포 서버 동기화 작업](https://github.com/PinkDumbbell/CocoBob-BE/pull/93)
-- [#88 CB 430 BE 테스트 커버리지 측정이 필요함](https://github.com/PinkDumbbell/CocoBob-BE/pull/88)
-- [#89 CB 508 클라이언트에서 이미지 압축하여 보내야 함](https://github.com/PinkDumbbell/CocoBob-BE/pull/89)
-- [#81 Cb 439 be 상품 상세페이지에 필요한 브랜드 이미지가 없음](https://github.com/PinkDumbbell/CocoBob-BE/pull/81)
-- [#78 Release Cache, Keyword, QueryDSL](https://github.com/PinkDumbbell/CocoBob-BE/pull/78)
-- [#76 Cb 409 be 스프링 rest api를 통해서 연관 상품을 가져올 수 없음](https://github.com/PinkDumbbell/CocoBob-BE/pull/76)
-- [#77 CB-423 [refactor]: remove redundant join table](https://github.com/PinkDumbbell/CocoBob-BE/pull/77)
-- [#75 Cb 392 be 캐시를 사용하지 않음](https://github.com/PinkDumbbell/CocoBob-BE/pull/75)
-- [#73 Synchronize Development Server with Deployment Server](https://github.com/PinkDumbbell/CocoBob-BE/pull/73)
-- [#74 Cb 370 상품 키워드 제공 api가 없음](https://github.com/PinkDumbbell/CocoBob-BE/pull/74)
-- [#71 Cb 382 be 상품 좋아요 api 수정이 필요로함](https://github.com/PinkDumbbell/CocoBob-BE/pull/71)
-- [#70 Cb 358 fe be 필터링에 대한 의미 재정립이 필요함](https://github.com/PinkDumbbell/CocoBob-BE/pull/70)
-- [#62 CB357 be 좋아요 기능 사용시 user id 사용 불필요함](https://github.com/PinkDumbbell/CocoBob-BE/pull/62)
-- [#69 Cb 370 상품 키워드 제공 api가 없음](https://github.com/PinkDumbbell/CocoBob-BE/pull/69)
-
-**[PinkDumbbell/CocoBob-APP](https://github.com/PinkDumbbell/CocoBob-APP)**
-- [#9 Cb 464 [release] ios 배포 설정이 필요함](https://github.com/PinkDumbbell/CocoBob-APP/pull/9)
-
-<sub>Last updated: 2026-05-31 04:49 UTC</sub>
+<sub>⭐ 100+ stars 프로젝트만 표시 · Last updated: 2026-05-31 04:55 UTC</sub>
 <!-- OSS_CONTRIBUTIONS_END -->
 
 ---
