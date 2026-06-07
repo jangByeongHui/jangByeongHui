@@ -49,7 +49,7 @@
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | • [#4176 fix(skill-mcp-manager): trust explicit skill MCP env vars (#3995)](https://github.com/code-yeongyu/oh-my-openagent/pull/4176) |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | • [#13154 🤝 fix: Honor OPENID_REUSE_TOKENS in Admin OAuth Exchange](https://github.com/danny-avila/LibreChat/pull/13154) |
 
-<sub>Last updated: 2026-05-31 04:56 UTC</sub>
+<sub>Last updated: 2026-06-07 03:51 UTC</sub>
 <!-- OSS_CONTRIBUTIONS_END -->
 
 ---
