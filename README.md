@@ -45,11 +45,11 @@
 <!-- OSS_CONTRIBUTIONS_START -->
 | Repository | Pull Requests |
 | --- | --- |
-| [apache/airflow](https://github.com/apache/airflow) | • [#67225 Fix DockerOperator on_kill to respect auto_remove='force' and remove …](https://github.com/apache/airflow/pull/67225) |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | • [#4176 fix(skill-mcp-manager): trust explicit skill MCP env vars (#3995)](https://github.com/code-yeongyu/oh-my-openagent/pull/4176) |
+| [apache/airflow](https://github.com/apache/airflow) | • [#67225 Fix DockerOperator on_kill to respect auto_remove='force' and remove …](https://github.com/apache/airflow/pull/67225) |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | • [#13154 🤝 fix: Honor OPENID_REUSE_TOKENS in Admin OAuth Exchange](https://github.com/danny-avila/LibreChat/pull/13154) |
 
-<sub>Last updated: 2026-06-14 03:59 UTC</sub>
+<sub>Last updated: 2026-06-21 04:08 UTC</sub>
 <!-- OSS_CONTRIBUTIONS_END -->
 
 ---
